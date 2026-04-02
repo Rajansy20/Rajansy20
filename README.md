@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
 <h3 align="center">Data analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansy20&label=Profile%20views&color=0e75b6&style=flat" alt="rajansy20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajansy20" alt="rajansy20" /></a> </p>
-
-- 💬 Ask me about **Dsa,Python & Java**
+- 💬 Ask me about **DSA Python & Java**
 
 - 📫 How to reach me **rajankumar99200@gmail.com**
 
